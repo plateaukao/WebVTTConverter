@@ -2,7 +2,7 @@
 
 A native macOS SwiftUI app that converts Netflix WebVTT subtitle files into EPUB ebooks — no Calibre dependency required.
 
-Ported from the [Calibre WebVTT Converter plugin](https://github.com/nicekao/webvtt_converter_plugin), rewritten in Swift with standalone EPUB generation using [ZIPFoundation](https://github.com/weichsel/ZIPFoundation).
+Ported from the [Calibre WebVTT Converter plugin](https://github.com/plateaukao/webvtt_converter_plugin), rewritten in Swift with standalone EPUB generation using [ZIPFoundation](https://github.com/weichsel/ZIPFoundation).
 
 ## Screenshot
 
